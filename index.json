@@ -1,0 +1,14 @@
+{
+  "result": true,
+  "target": "peito",
+  "aimPoint": 1,
+  "boneIndex": 7,
+  "hitZone": "chest",
+  "aimAssist": true,
+  "aimSpeed": 0.08,
+  "smoothing": 0.12,
+  "fov": 180,
+  "renderDistance": 999,
+  "flags": [false, false, false, false, false, false, false, false],
+  "version": "1.0"
+}
