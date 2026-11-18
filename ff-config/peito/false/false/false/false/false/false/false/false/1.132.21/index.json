@@ -10,5 +10,5 @@
   "fov": 180,
   "renderDistance": 999,
   "flags": [false, false, false, false, false, false, false, false],
-  "version": "1.0"
+  "version": "1.132.21"
 }
